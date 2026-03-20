@@ -1,0 +1,2 @@
+{"global_step": 1024, "mean_reward": 1.0, "success_rate": 1.0, "cue_scratch_rate": 0.0, "illegal_first_hit_rate": 0.0}
+{"global_step": 2048, "mean_reward": 1.0, "success_rate": 1.0, "cue_scratch_rate": 0.0, "illegal_first_hit_rate": 0.0}

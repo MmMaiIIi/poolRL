@@ -1,0 +1,31 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test / tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual envs (if created locally under MLAgent)
+.venv/
+venv/
+env/
+
+# Training / evaluation artifacts
+runs/
+logs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Local result dumps
+*.jsonl
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
